@@ -47,18 +47,3 @@ def LENet5():
 
 model = LENet5()
 model.summary()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
