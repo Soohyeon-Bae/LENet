@@ -1,7 +1,6 @@
 import keras
 import tensorflow as tf
-from keras.models import Sequential
-from keras.layers import Dense, Activation, Conv2D, AveragePooling2D, ZeroPadding2D, Flatten, Dropout
+from keras.layers import Dense, Activation, Conv2D, AveragePooling2D
 
 #The input is a 32 32 pixel image.
 input_img = (32,32,1)
